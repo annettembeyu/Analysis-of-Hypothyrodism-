@@ -25,6 +25,6 @@ The analysis will be approached as follows:
 
 - I will apply Polynomial, linear and rbf kernel function to build my SVM model and then evaluate their performance and pick the kernel that performs the best. I will tune my parameters to improve the performance of the model and further visualize the models. I will use any two features to build the models for this step.
 
-**Point to note:** I will use decision trees to obtain the most preferable features. However, these features obtained by decision tree might not be suitable for SVM hence I will graph them first.
+**Note:** I will use decision trees to obtain the most preferable features. However, these features obtained by decision tree might not be suitable for SVM hence I will graph them first.
 
 -  After getting the  best performing kernel, I will use it together with the tuned parameters and repeat the prediction but this time using additional features. I will then compare the model you've just created with the 2-features version. 
